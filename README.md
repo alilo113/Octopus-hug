@@ -2,7 +2,7 @@
 
 A small Python project — Octopus-hug aims to demonstrate and experiment with Denial-of-Service attack behavior in controlled environments for educational and research purposes.
 
-![Octopus-hug logo](assets/octopus-hug.jpg)
+![Octopus-hug logo](asset/octopus-hug.png)
 
 Status: Early / Prototype
 
